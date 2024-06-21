@@ -1,2 +1,6 @@
 ADD FROM LOCAL
+<<<<<<< HEAD
 edit line2 from local
+=======
+edit line2 from GITHUB
+>>>>>>> 3743baeb7f68ad6e9bc9b38f0d1ee9a2c0c3a80a
